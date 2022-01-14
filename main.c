@@ -1,5 +1,5 @@
 #define FCY 32000000
-
+//main juste pour allumer des leds
 
 #include <libpic30.h>
 
